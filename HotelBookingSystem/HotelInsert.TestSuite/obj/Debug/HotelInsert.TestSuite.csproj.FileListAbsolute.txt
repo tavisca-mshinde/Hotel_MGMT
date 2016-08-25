@@ -1,0 +1,13 @@
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\HotelInsert.TestSuite\obj\Debug\HotelInsert.TestSuite.csprojResolveAssemblyReference.cache
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\HotelInsert.TestSuite\bin\Debug\HotelInsert.TestSuite.dll.config
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\HotelInsert.TestSuite\bin\Debug\HotelInsert.TestSuite.dll
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\HotelInsert.TestSuite\bin\Debug\HotelInsert.TestSuite.pdb
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\HotelInsert.TestSuite\bin\Debug\HotelBooking.Data.dll
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\HotelInsert.TestSuite\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\HotelInsert.TestSuite\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\HotelInsert.TestSuite\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\HotelInsert.TestSuite\bin\Debug\HotelBooking.Data.pdb
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\HotelInsert.TestSuite\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\HotelInsert.TestSuite\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\HotelInsert.TestSuite\obj\Debug\HotelInsert.TestSuite.dll
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\HotelInsert.TestSuite\obj\Debug\HotelInsert.TestSuite.pdb

@@ -1,0 +1,17 @@
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\CustomerSelect.TestSuite\bin\Debug\CustomerSelect.TestSuite.dll
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\CustomerSelect.TestSuite\bin\Debug\CustomerSelect.TestSuite.pdb
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\CustomerSelect.TestSuite\bin\Debug\CustomerBooking.Data.dll
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\CustomerSelect.TestSuite\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\CustomerSelect.TestSuite\bin\Debug\CustomerData.Entity.dll
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\CustomerSelect.TestSuite\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\CustomerSelect.TestSuite\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\CustomerSelect.TestSuite\bin\Debug\CustomerBooking.Data.pdb
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\CustomerSelect.TestSuite\bin\Debug\CustomerData.Entity.pdb
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\CustomerSelect.TestSuite\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\CustomerSelect.TestSuite\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\CustomerSelect.TestSuite\obj\Debug\CustomerSelect.TestSuite.csprojResolveAssemblyReference.cache
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\CustomerSelect.TestSuite\obj\Debug\CustomerSelect.TestSuite.dll
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\CustomerSelect.TestSuite\obj\Debug\CustomerSelect.TestSuite.pdb
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\CustomerSelect.TestSuite\bin\Debug\CustomerSelect.TestSuite.dll.config
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\CustomerSelect.TestSuite\bin\Debug\CustomerSelect.BusinessLogic.dll
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\CustomerSelect.TestSuite\bin\Debug\CustomerSelect.BusinessLogic.pdb

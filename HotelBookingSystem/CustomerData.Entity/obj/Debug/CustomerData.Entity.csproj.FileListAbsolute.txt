@@ -1,0 +1,5 @@
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\CustomerData.Entity\bin\Debug\CustomerData.Entity.dll
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\CustomerData.Entity\bin\Debug\CustomerData.Entity.pdb
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\CustomerData.Entity\obj\Debug\CustomerData.Entity.csprojResolveAssemblyReference.cache
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\CustomerData.Entity\obj\Debug\CustomerData.Entity.dll
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\CustomerData.Entity\obj\Debug\CustomerData.Entity.pdb
