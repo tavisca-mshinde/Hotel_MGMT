@@ -1,0 +1,13 @@
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\HotelsSelect.BusinessLogic\bin\Debug\HotelsSelect.BusinessLogic.dll
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\HotelsSelect.BusinessLogic\bin\Debug\HotelsSelect.BusinessLogic.pdb
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\HotelsSelect.BusinessLogic\bin\Debug\HotelBooking.Data.dll
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\HotelsSelect.BusinessLogic\bin\Debug\HotelsData.Entity.dll
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\HotelsSelect.BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\HotelsSelect.BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\HotelsSelect.BusinessLogic\bin\Debug\HotelBooking.Data.pdb
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\HotelsSelect.BusinessLogic\bin\Debug\HotelsData.Entity.pdb
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\HotelsSelect.BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\HotelsSelect.BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\HotelsSelect.BusinessLogic\obj\Debug\HotelsSelect.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\HotelsSelect.BusinessLogic\obj\Debug\HotelsSelect.BusinessLogic.dll
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\HotelsSelect.BusinessLogic\obj\Debug\HotelsSelect.BusinessLogic.pdb

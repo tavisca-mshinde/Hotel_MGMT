@@ -1,0 +1,11 @@
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\CustomerBooking.Data\obj\Debug\CustomerBooking.Data.csprojResolveAssemblyReference.cache
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\CustomerBooking.Data\bin\Debug\CustomerBooking.Data.dll
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\CustomerBooking.Data\bin\Debug\CustomerBooking.Data.pdb
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\CustomerBooking.Data\bin\Debug\CustomerData.Entity.dll
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\CustomerBooking.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\CustomerBooking.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\CustomerBooking.Data\bin\Debug\CustomerData.Entity.pdb
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\CustomerBooking.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\CustomerBooking.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\CustomerBooking.Data\obj\Debug\CustomerBooking.Data.dll
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\CustomerBooking.Data\obj\Debug\CustomerBooking.Data.pdb

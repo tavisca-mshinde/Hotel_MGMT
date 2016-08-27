@@ -1,0 +1,13 @@
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\RoomSelect.BusinessLogic\bin\Debug\RoomSelect.BusinessLogic.dll
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\RoomSelect.BusinessLogic\bin\Debug\RoomSelect.BusinessLogic.pdb
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\RoomSelect.BusinessLogic\bin\Debug\RoomBooking.Data.dll
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\RoomSelect.BusinessLogic\bin\Debug\RoomData.Entity.dll
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\RoomSelect.BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\RoomSelect.BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\RoomSelect.BusinessLogic\bin\Debug\RoomBooking.Data.pdb
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\RoomSelect.BusinessLogic\bin\Debug\RoomData.Entity.pdb
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\RoomSelect.BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\RoomSelect.BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\RoomSelect.BusinessLogic\obj\Debug\RoomSelect.BusinessLogic.dll
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\RoomSelect.BusinessLogic\obj\Debug\RoomSelect.BusinessLogic.pdb
+C:\Users\mshinde\Desktop\ms\HotelBookingSystem\RoomSelect.BusinessLogic\obj\Debug\RoomSelect.BusinessLogic.csprojResolveAssemblyReference.cache
