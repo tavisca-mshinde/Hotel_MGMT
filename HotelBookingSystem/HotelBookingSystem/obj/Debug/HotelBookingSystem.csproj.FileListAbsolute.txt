@@ -8,3 +8,6 @@ C:\Users\mshinde\Desktop\ms\HotelBookingSystem\HotelBookingSystem\bin\Debug\Micr
 C:\Users\mshinde\Desktop\ms\HotelBookingSystem\HotelBookingSystem\obj\Debug\HotelBookingSystem.csprojResolveAssemblyReference.cache
 C:\Users\mshinde\Desktop\ms\HotelBookingSystem\HotelBookingSystem\obj\Debug\HotelBookingSystem.exe
 C:\Users\mshinde\Desktop\ms\HotelBookingSystem\HotelBookingSystem\obj\Debug\HotelBookingSystem.pdb
+D:\HotelSystem\HotelBookingSystem\HotelBookingSystem\bin\Debug\HotelBookingSystem.exe.config
+D:\HotelSystem\HotelBookingSystem\HotelBookingSystem\obj\Debug\HotelBookingSystem.exe
+D:\HotelSystem\HotelBookingSystem\HotelBookingSystem\obj\Debug\HotelBookingSystem.pdb
